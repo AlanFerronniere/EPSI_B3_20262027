@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/
+
+# Fichiers et dossiers privés
+priv_*
+
+# Fichiers de configuration d'agents IA
+Agent.md
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.agent/
+.agents/
+.gemini/
+.claude/
+.cursor/
+.antigravity/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
