@@ -107,7 +107,8 @@ GO
 ```
 
 ### 3.4 Peuplement initial de la base `ERP_Epsi`
-Pour que la base ne reste pas vide pour les prochains TP (sauvegardes, restauration et supervision), exécutez le script fourni `init_ERP_Epsi.sql` (crée le schéma `metier` et les tables `Clients`, `Produits`, `Commandes`, `LignesCommande` avec 7 600 lignes de test) :
+Pour que la base ne reste pas vide pour les prochains TP (sauvegardes, restauration et supervision), exécutez le script fourni ![[init_ERP_Epsi.sql]]
+(crée le schéma `metier` et les tables `Clients`, `Produits`, `Commandes`, `LignesCommande` avec 7 600 lignes de test) :
 ```bash
 sqlcmd -S localhost -U sa -P 'VotreMotDePasseSA' -C -i init_ERP_Epsi.sql
 ```
