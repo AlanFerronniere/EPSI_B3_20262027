@@ -2,7 +2,8 @@
 
 > [!INFO] Organisation
 > - **Durée :** 50 min (35 min de recherche et rédaction en groupe + 15 min de restitution)
-> - **Modalité :** Groupes de 2 ou 3 élèves
+> - **Modalité :** Groupes de 2 ou 3 élèves 
+> - https://docs.google.com/spreadsheets/d/1xrJI-qwck2YG40HCMBijnIJprMCOvAPq8jx1tGvAId0/edit?usp=sharing
 
 ---
 
